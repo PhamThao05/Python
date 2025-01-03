@@ -1,0 +1,10 @@
+a = 9 
+b = 5
+Tong = a + b 
+print('Tong a + b = ' ,Tong)
+Hieu = a - b
+print('Hieu a - b =', Hieu)
+Tich = a * b
+print('Tich a * b = ', Tich)
+Thuong = a / b
+print('Thuong a / b =', Thuong)
